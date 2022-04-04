@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(235, 220, 201);
+}
+.restaurants {
+    border: 1px solid black;
+    text-align: center;
+}
+.restaurant_image{
+    width:25%;
+    height:25%;
+}
+.restaurantReview{
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
