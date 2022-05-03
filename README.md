@@ -1,5 +1,5 @@
-# zabihafy
-A web application that lets users search for zabiha halal restaurants near a specified location 
+# Zabihafy
+A web application that "Zabihafys" a user search and pulls up zabiha halal restaurants near a specified location 
 
 ### Built With
 
